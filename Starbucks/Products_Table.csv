@@ -1,0 +1,81 @@
+product_id,product_category,product_type,product_detail,unit_price
+1,Coffee,Gourmet brewed coffee,Ethiopia Rg,252
+2,Tea,Brewed Chai tea,Spicy Eye Opener Chai Lg,260.4
+3,Drinking Chocolate,Hot chocolate,Dark chocolate Lg,378
+4,Coffee,Drip coffee,Our Old Time Diner Blend Sm,168
+5,Bakery,Scone,Oatmeal Scone,252
+6,Coffee,Gourmet brewed coffee,Gourmet brewed coffee,168
+7,Coffee,Barista Espresso,Latte Rg,357
+8,Drinking Chocolate,Hot chocolate,Dark chocolate Rg,294
+9,Tea,Brewed Chai tea,Spicy Eye Opener Chai Rg,214.2
+10,Tea,Brewed Green tea,Serenity Green Tea Lg,252
+11,Bakery,Scone,Jumbo Savory Scone,315
+12,Tea,Brewed herbal tea,Lemon Grass Rg,210
+13,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Lg,399
+14,Bakery,Biscotti,Hazelnut Biscotti,273
+15,Coffee,Barista Espresso,Cappuccino,315
+16,Tea,Brewed herbal tea,Lemon Grass Lg,252
+17,Bakery,Biscotti,Chocolate Chip Biscotti,294
+18,Tea,Brewed herbal tea,Peppermint Lg,252
+19,Bakery,Pastry,Chocolate Croissant,315
+20,Coffee,Barista Espresso,Latte,315
+21,Coffee,Organic brewed coffee,Brazilian Rg,252
+22,Coffee,Organic brewed coffee,Brazilian Lg,294
+23,Coffee,Gourmet brewed coffee,Columbian Medium Roast Rg,210
+24,Tea,Brewed Chai tea,Morning Sunrise Chai Rg,210
+25,Tea,Brewed Chai tea,Morning Sunrise Chai Lg,336
+26,Coffee,Drip coffee,Our Old Time Diner Blend Lg,252
+27,Drinking Chocolate,Hot chocolate,Sustainably Grown Organic Rg,315
+28,Bakery,Scone,Scottish Cream Scone ,378
+29,Tea,Brewed herbal tea,Peppermint Rg,210
+30,Tea,Brewed Black tea,English Breakfast Rg,210
+31,Coffee,Drip coffee,Our Old Time Diner Blend Rg,210
+32,Tea,Brewed Green tea,Serenity Green Tea Rg,210
+33,Coffee,Organic brewed coffee,Brazilian Sm,184.8
+34,Coffee,Premium brewed coffee,Jamaican Coffee River Sm,205.8
+35,Coffee,Premium brewed coffee,Jamaican Coffee River Lg,315
+36,Bakery,Biscotti,Ginger Biscotti,294
+37,Tea,Brewed Chai tea,Traditional Blend Chai Lg,252
+38,Coffee,Barista Espresso,Cappuccino Lg,357
+39,Coffee,Barista Espresso,Espresso shot,252
+40,Tea,Brewed Black tea,Earl Grey Rg,210
+41,Bakery,Scone,Ginger Scone,273
+42,Coffee,Premium brewed coffee,Jamaican Coffee River Rg,260.4
+43,Bakery,Scone,Cranberry Scone,273
+44,Bakery,Pastry,Almond Croissant,315
+45,Bakery,Pastry,Croissant,294
+46,Coffee,Gourmet brewed coffee,Ethiopia Sm,184.8
+47,Tea,Brewed Black tea,English Breakfast Lg,252
+48,Tea,Brewed Chai tea,Traditional Blend Chai Rg,210
+49,Coffee,Gourmet brewed coffee,Columbian Medium Roast Lg,252
+50,Flavours,Regular syrup,Hazelnut syrup,67.2
+51,Loose Tea,Herbal tea,Peppermint,751.8
+52,Flavours,Regular syrup,Carmel syrup,67.2
+53,Coffee beans,Gourmet Beans,Ethiopia,1764
+54,Coffee beans,Organic Beans,Organic Decaf Blend,2352
+55,Flavours,Sugar free syrup,Sugar Free Vanilla syrup,67.2
+56,Flavours,Regular syrup,Chocolate syrup,67.2
+57,Packaged Chocolate,Drinking Chocolate,Dark chocolate,537.6
+58,Coffee beans,Premium Beans,Jamacian Coffee River,1659
+59,Coffee beans,Organic Beans,Organic Decaf Blend,1008
+60,Coffee beans,Organic Beans,Brazilian - Organic,1512
+61,Loose Tea,Chai tea,Morning Sunrise Chai,798
+63,Coffee beans,Green beans,Guatemalan Sustainably Grown,840
+64,Coffee beans,Espresso Beans,Primo Espresso Roast,1717.8
+65,Loose Tea,Green tea,Serenity Green Tea,777
+69,Loose Tea,Chai tea,Traditional Blend Chai,751.8
+70,Coffee beans,Espresso Beans,Espresso Roast,1239
+71,Branded,Housewares,I Need My Bean! Latte cup,1176
+72,Packaged Chocolate,Drinking Chocolate,Chili Mayan,1119.72
+73,Coffee beans,Gourmet Beans,Columbian Medium Roast,1260
+74,Bakery,Scone,Cranberry Scone,341.04
+75,Coffee beans,House blend Beans,Our Old Time Diner Blend,1512
+76,Branded,Clothing,I Need My Bean! T-shirt,2352
+77,Bakery,Scone,Scottish Cream Scone ,472.92
+78,Bakery,Scone,Jumbo Savory Scone,393.96
+79,Bakery,Scone,Ginger Scone,341.04
+81,Coffee beans,Premium Beans,Civet Cat,3780
+82,Branded,Housewares,I Need My Bean! Latte cup,1932
+83,Bakery,Scone,Ginger Scone,222.6
+84,Coffee beans,Organic Beans,Organic Decaf Blend,1932
+87,Branded,Clothing,I Need My Bean! T-shirt,1932
